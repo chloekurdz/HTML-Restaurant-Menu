@@ -72,6 +72,7 @@ nav a:hover {
     font-size: 2em;
     padding: 20px;
     margin: 10px;
+    text-align: center
 }
 
 table {
@@ -83,4 +84,18 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+.highlight {
+    color:darkred
+}
+#holiday {
+    width:100%;
+    padding:20px;
+    background-color:seashell;
+    border:5px solid black
+}
+footer {
+    width: 100%;
+    padding: 15px;
+    background-color: seashell;
 }
